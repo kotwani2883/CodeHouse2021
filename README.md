@@ -31,8 +31,22 @@ Before raw data could be sent through a machine learning model it has to undergo
 ![image](https://user-images.githubusercontent.com/56580582/180375672-d791eadb-ad34-441a-9786-c5d2dc1fb53e.png)
 
 SENTIMENTAL ANALYSIS
-We use TextBlob package to carry out the sentiment analysis of the reviews. As TextBlob itself
-has only 60% of working efficiency, We clean the data and use only the relevant tokens with
-appropriate tags to carry out the sentiment analysis which gives us better results.
+We use TextBlob package to carry out the sentimental analysis of the reviews. As TextBlob itself has only 60% of working efficiency, We clean the data and use only the relevant tokens with appropriate tags to carry out the sentiment analysis which gives us better results.
 
-DataVisualization : It is done using tthe seaborn and matlpotlib library
+DataVisualization : It is done using the seaborn and matlpotlib library
+We visualized  both the cisco and vmware products in terms of various industries inorder to get the maximum customer obsession
+
+#### Success rate of Cisco : 52.87
+#### Success rate of Vmware : 69.74
+
+We are still gathering datasets inorder to improve the efficiency of our data model.
+
+## Conclusions
+The usage of robust web scrappers made extracting large volumes of data acturately and easy otherwise would lead to unnecessary wastage of time for mundane tasks like data collection.This basically helps us to get the negative feedbacks and work upon the shortcomings
+
+## Future Goals
+* Extracting large datasets
+* Proper visulization using some kinda web App
+* Deploying that very app on flask
+
+

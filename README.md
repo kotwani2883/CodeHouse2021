@@ -45,7 +45,7 @@ We are still gathering datasets inorder to improve the efficiency of our data mo
 The usage of robust web scrappers made extracting large volumes of data acturately and easy otherwise would lead to unnecessary wastage of time for mundane tasks like data collection.This basically helps us to get the negative feedbacks and work upon the shortcomings
 
 ## Future Goals
-* Extracting large datasets
+* Extracting large datasets on Kaggle
 * Proper visulization using some kinda web App
 * Deploying that very app on flask
 
